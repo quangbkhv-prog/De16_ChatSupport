@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/ChatApi/ChatApi.csproj" />
+    <Project Path="backend/HistoryWorker/HistoryWorker.csproj" />
+    <Project Path="backend/Shared/Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChatSupport.Tests/ChatSupport.Tests.csproj" />
+  </Folder>
+</Solution>

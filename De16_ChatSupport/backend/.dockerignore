@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/worker-alive.tmp
+**/appsettings.Development.json
